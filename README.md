@@ -22,7 +22,7 @@ Or install it yourself as:
 
 You can pass your bussiness data file in the format of json and get the information of it.
 
-```
+```ruby
 BussinessData.get_bussiness_data(file_path)
 ```
 
