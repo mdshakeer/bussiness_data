@@ -22,6 +22,10 @@ Or install it yourself as:
 
 You can pass your bussiness data file in the format of json and get the information of it.
 
+```
+BussinessData.get_bussiness_data(file_path)
+```
+
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
